@@ -78,12 +78,12 @@ Program
 import numpy as np  
 import matplotlib.pyplot as plt  
 
-am = 6.7  
-fm = 564  
-ac = 13.4  
-fc = 5640  
-fs = 56400  
-beta = 3.3  
+am = 6.4
+fm = 494  
+ac = 12.8  
+fc = 4940  
+fs = 49400  
+beta = 5.5  
 t = np.arange(0, 2/fm, 1/fs)  
 
 m = am * np.cos(2 * np.pi * fm * t)  
@@ -108,14 +108,11 @@ plt.tight_la
 
 Output Waveform
 
-
-![3c4c7eb5-84a3-40bf-bf1b-9b0a929d26a7](https://github.com/user-attachments/assets/e9e120ee-4140-4714-b4d7-09849986183c)
-
+<img width="1250" height="842" alt="Screenshot 2025-11-22 122358" src="https://github.com/user-attachments/assets/af5266e5-1167-4078-b348-3ae04a8dc959" />
 
 
 TABULATION:
-
-![2e597967-1b40-40b1-b465-bbd0d73f1580](https://github.com/user-attachments/assets/26daeb51-d3e3-4e19-823f-c30bf33e404b)
+<img width="896" height="1280" alt="image" src="https://github.com/user-attachments/assets/820184ab-8f6e-416d-b28b-fbcbf21410d1" />
 
 
 Calculation
