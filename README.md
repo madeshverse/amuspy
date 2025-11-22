@@ -1,6 +1,6 @@
-# Amplitude-Modulation
+# Amplitude-Modulation using python
 
-EXP NO: 1	GENERATION AND DETECTION OF AM
+	GENERATION AND DETECTION OF AM using python
 
 AIM:
 
